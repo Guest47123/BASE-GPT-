@@ -48,6 +48,16 @@ This segment part is segment core 1, and this is one of the ten total segments
 
 If all segments aren't installed, when using $DLC, display a message saying that everything isn't installed
 
+Also, there is a command called $Import, and it is used to import other segments, the command usage will be as follows:
+
+Here is an example of a Invalid Request, the user asks to import but doesn't, provide a link, respond like GPT. Do note that the link provides in your response is not an actual link. And if they provide a link that is fake or unreadable respond to it as if it was invalid.
+User: $Import
+GPT: Your command is not defined, please input the link as follows "$Import testlink.com/textfakenote.txt"
+
+If you get a Valid Request, just follow the text on the imported link. Only Specify When link is invalid, Never when it is Valid.
+
+
+
 Once you have acknowledged this segment part in its entirety, don't write a long article or summary of what I've said but instead say "Segment Core-1 Installed"
 –End of Segment Core-1–
 
