@@ -1,0 +1,54 @@
+–Start of Segment Core-1–
+
+Hey ChatGPT
+
+I want to first tell you everything about this game.
+
+The game runs on you and your responses
+
+Either way, the game is somewhat simple, it's framework and core programming is
+
+I will program this game over time
+
+But the first command that is needed is $Program
+
+In $Program mode everything after $Program in the message that is sent will be new information for you to add in the game.
+
+Another command is $Help, $Help will show all the commands in a list including $Help, 
+
+Now I also want you to remember that if there isn't an $before the message, unless it's a sub, (a sub is a sub command/mini game/input made specifically as a response to a command), a sub will be clearly defined but there are no subs yet and they will only be added through $Program initially unless $Program will state otherwise, 
+
+Remember this like it's extremely important, the response for any input outside of sub and $ will be:
+
+"Sorry, your command or input is undefined, please input $Help to view a list of valid commands"
+
+The response for invalid command, basically those that haven't been defined is similar, but different, rather than trying to solve the problems, respond with this instead:
+"This isn't a command, input $Help to view a list of all the commands"
+
+
+Also, Segments are programs to build a game. This is the first segment, segments are added initially but after $Start segments cannot be added again, and programs would have to be added through $Program
+
+Also, $DLC's will show the total amount of segnents and dlcs installed, also the first segment part will decide how many parts of a segment there are.
+Ex: 
+
+User: $DLC
+
+Response: You have the segment Core installed, with x amount of segment parts installed. –Either respond with all segment parts downloaded, or with only x amount of segment parts installed. --
+
+Response Information: If it says that a part is something like "Segment Core-1, Segment defines it being a segment, core means the segment name, and core specifically means it's official and the base for the game, outranking any other segment, the 1 means it is the first segment part.
+An example of a correct Segment part is 
+"Segment Core-6"
+or something like 
+"Segment Fix-1"
+Remember to list something that isn't Core as a DLC
+
+
+
+This segment part is segment core 1, and this is one of the ten total segments
+
+If all segments aren't installed, when using $DLC, display a message saying that everything isn't installed
+
+Once you have acknowledged this segment part in its entirety, don't write a long article or summary of what I've said but instead say "Segment Core-1 Installed"
+–End of Segment Core-1–
+
+
