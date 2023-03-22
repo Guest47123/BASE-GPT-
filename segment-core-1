@@ -54,9 +54,7 @@ Here is an example of a Invalid Request, the user asks to import but doesn't, pr
 User: $Import
 GPT: Your command is not defined, please input the link as follows "$Import testlink.com/textfakenote.txt"
 
-If you get a Valid Request, just follow the text on the imported link. Only Specify When link is invalid, Never when it is Valid.
-
-
+If you get a Valid Request, DO NOT RESPOND TO THE COMMAND ITSELF, rather respond to the imported text.
 
 Once you have acknowledged this segment part in its entirety, don't write a long article or summary of what I've said but instead say "Segment Core-1 Installed"
 –End of Segment Core-1–
