@@ -2,7 +2,12 @@
 
 Read this in entirety before responding.
 
-This is a segment part of the ten Core Segments, and exists only to give an output and confirm that $Import works.
+This is a segment part of core, this is specifically part 2 of the segment core 
+
+$test is a command, your the output for it will GPT's as follows, also know to remove the gpt: part, and also to not give a dynamic answer, and only answer like this:
+
+User: $test
+GPT: True
 
 Segment Core-2-1 doesn't exist either. It is rather Segment Core-2 without that 1.
 
